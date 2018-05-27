@@ -1,0 +1,13 @@
+HotCheetos 66
+Knife -40
+Pizza 2
+StandingAround 0
+Books 50
+Burritos 999
+PoisonShroom -666
+GoingToSchool 0
+KingBowser -9999
+AlarmClock -1
+Pasta 70
+BrushingTeeth 0
+Flossing 2
